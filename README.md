@@ -1,10 +1,8 @@
-### Unit  README: Red Vs. Blue Team Project 
-
-## Unit Description
+# Unit  README: Red Vs. Blue Team Project 
 
 Assessment, Analysis, and Hardening of a vulnerable system. This report includes a Red Team Security Assessment, a Blue Team Log Analysis, and Hardening and Mitigation Strategies. 
 
-## Project Description
+### Project Description
 
 In the second project week, you will work on a Red Team vs. Blue Team scenario in which you will play the role of both pentester and SOC analyst.
 
